@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>My New Hugo Site</title>
+        <link>https://barakinio.github.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>barakshfr@gmail.com (Barak Shefer)</managingEditor>
+            <webMaster>barakshfr@gmail.com (Barak Shefer)</webMaster><lastBuildDate>Fri, 08 Jul 2022 20:12:17 &#43;0300</lastBuildDate>
+            <atom:link href="https://barakinio.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>https://barakinio.github.io/posts/first_post/</link>
+    <pubDate>Fri, 08 Jul 2022 20:12:17 &#43;0300</pubDate>
+    <author>Barak Shefer</author>
+    <guid>https://barakinio.github.io/posts/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
